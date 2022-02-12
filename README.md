@@ -1,2 +1,8 @@
-# clone-interface-da-netlix-dio
-Repositório referente a aula de criação do clone da interface da netflix
+# Recriando interface da netflix
+Repositório referente ao "Recriando interface da Netflix" da DIO
+## Aprendizagem adquirida
+*HTML
+*CSS
+**Flexbox
+*JQuerry
+*JavaScipt
