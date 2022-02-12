@@ -3,6 +3,6 @@ Repositório referente ao "Recriando interface da Netflix" da DIO
 ## Aprendizagem adquirida
 * HTML
 * CSS
-** Flexbox
+  * Flexbox
 * JQuerry
 * JavaScipt
